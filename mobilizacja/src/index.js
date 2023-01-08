@@ -1,0 +1,10 @@
+import "./scss/_reset.scss";
+import "./scss/layout.scss";
+import "./scss/header.scss";
+import "./scss/main-section.scss";
+import "./scss/possibilities-section.scss";
+import "./scss/information-section.scss";
+import "./scss/services-section.scss";
+import "./scss/blog-section.scss";
+import "./scss/footer.scss";
+import "./scss/responsive.scss";
